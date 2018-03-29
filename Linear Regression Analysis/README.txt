@@ -17,4 +17,4 @@ Commands to run the files:
 
 
 
-The complete report created and submitted :
+The complete report:  https://github.com/suyashdamle/ML-course/blob/master/Linear%20Regression%20Analysis/15CS10057_Assignment1_report.pdf 
