@@ -1,0 +1,127 @@
+Using the Mean Squared Error cost function:
+	learning rate:  0.001
+	#iterations:  13146
+	learned parameters:  [[  1.01358442e-06   4.32796381e-02   3.03633607e-02   4.70937186e-02
+    4.77770154e-01]]
+	RMSE:  0.860271512734
+	learning rate:  0.002
+	#iterations:  6130
+	learned parameters:  [[  1.32288319e-06   4.31664555e-02   2.96942883e-02   4.63792489e-02
+    4.78910176e-01]]
+	RMSE:  0.860219748643
+	learning rate:  0.005
+	#iterations:  3136
+	learned parameters:  [[  6.29844258e-08   4.30636358e-02   2.90843734e-02   4.57593154e-02
+    4.79923726e-01]]
+	RMSE:  0.860171482054
+	learning rate:  0.008
+	#iterations:  1178
+	learned parameters:  [[  2.89318688e-05   4.30078751e-02   2.86557463e-02   4.56667576e-02
+    4.80352992e-01]]
+	RMSE:  0.860120806043
+	learning rate:  0.01
+	#iterations:  1427
+	learned parameters:  [[  2.11505401e-07   4.30128069e-02   2.87847649e-02   4.54360640e-02
+    4.80436956e-01]]
+	RMSE:  0.860149237356
+	learning rate:  0.03
+	#iterations:  599
+	learned parameters:  [[  4.79951462e-09   4.29596481e-02   2.84707866e-02   4.51135040e-02
+    4.80961558e-01]]
+	RMSE:  0.860125167378
+	learning rate:  0.05
+	#iterations:  375
+	learned parameters:  [[  3.09535809e-09   4.29433377e-02   2.83745221e-02   4.50119731e-02
+    4.81124552e-01]]
+	RMSE:  0.860117991038
+	learning rate:  0.08
+	#iterations:  224
+	learned parameters:  [[  7.70560363e-09   4.29317524e-02   2.83060843e-02   4.49400145e-02
+    4.81240247e-01]]
+	RMSE:  0.860112889175
+	learning rate:  0.1
+	#iterations:  135
+	learned parameters:  [[  5.52862578e-07   4.29263810e-02   2.82709688e-02   4.49089347e-02
+    4.81294740e-01]]
+	RMSE:  0.860109975348
+[0.8602715127342834, 0.8602197486431468, 0.8601714820535081, 0.8601208060427556, 0.8601492373563816, 0.8601251673778597, 0.8601179910379344, 0.8601128891746459, 0.8601099753482649]
+
+
+Using the Mean Absolute Error cost function:
+	learning rate:  0.001
+	#iterations:  7332
+	learned parameters:  [[-0.15673271  0.04927556  0.05343523  0.05141795  0.30398966]]
+	RMSE:  0.883072885439
+	learning rate:  0.002
+	#iterations:  6740
+	learned parameters:  [[-0.15675188  0.04778928  0.05341062  0.05125451  0.30406097]]
+	RMSE:  0.883099200587
+	learning rate:  0.005
+	#iterations:  2716
+	learned parameters:  [[-0.15651405  0.04785687  0.05299963  0.0506027   0.30514717]]
+	RMSE:  0.882907470749
+	learning rate:  0.008
+	#iterations:  1605
+	learned parameters:  [[-0.1564667   0.04786485  0.05296107  0.05054118  0.30526242]]
+	RMSE:  0.882883013636
+	learning rate:  0.01
+	#iterations:  1344
+	learned parameters:  [[-0.15641434  0.04786596  0.05291314  0.05035627  0.30552493]]
+	RMSE:  0.882839204148
+	learning rate:  0.03
+	#iterations:  522
+	learned parameters:  [[-0.15643961  0.04788857  0.0529002   0.05029999  0.30560212]]
+	RMSE:  0.882831595463
+	learning rate:  0.05
+	#iterations:  172
+	learned parameters:  [[-0.15646598  0.04803441  0.05275867  0.05011473  0.30589723]]
+	RMSE:  0.882792487262
+	learning rate:  0.08
+	#iterations:  184
+	learned parameters:  [[-0.1564489   0.04786691  0.05286721  0.05019045  0.30573447]]
+	RMSE:  0.88281709088
+	learning rate:  0.1
+	#iterations:  142
+	learned parameters:  [[-0.15646067  0.04793102  0.05285137  0.05016481  0.30578991]]
+	RMSE:  0.882808471736
+[0.8830728854391765, 0.8830992005873473, 0.8829074707493787, 0.8828830136359006, 0.8828392041484906, 0.8828315954630218, 0.8827924872622984, 0.8828170908799146, 0.8828084717360013]
+
+
+Using the Mean Cube Error cost function:
+	learning rate:  0.001
+	#iterations:  93
+	learned parameters:  [[ 0.67489921  0.27346952  0.75001136  0.21396838 -0.07854768]]
+	RMSE:  1.545936271
+	learning rate:  0.002
+	#iterations:  58
+	learned parameters:  [[ 0.09944239  0.27386814  0.66007064  0.60521997  0.35478323]]
+	RMSE:  1.35657628816
+	learning rate:  0.005
+	#iterations:  25
+	learned parameters:  [[ 0.4643509   0.29993318  0.32592843  0.09717915  0.50684173]]
+	RMSE:  1.21565363171
+	learning rate:  0.008
+	#iterations:  14
+	learned parameters:  [[ 0.07425151  0.31206439  0.37499138  0.47599022  0.61780346]]
+	RMSE:  1.21414419514
+	learning rate:  0.01
+	#iterations:  9
+	learned parameters:  [[ 0.12160473  0.4179774   0.53089867  0.64425166 -0.0253037 ]]
+	RMSE:  1.17568179577
+	learning rate:  0.03
+	#iterations:  2
+	learned parameters:  [[ 0.03293723  0.17010455  0.4031977   0.59757813  0.15422684]]
+	RMSE:  1.0624216977
+	learning rate:  0.05
+	#iterations:  6
+	learned parameters:  [[ 0.38003939  0.09517642  0.19165244  0.28299462  0.43450054]]
+	RMSE:  1.0614366671
+	learning rate:  0.08
+	#iterations:  3
+	learned parameters:  [[ 0.38193872  0.11873601  0.42551674  0.30485672  0.01061028]]
+	RMSE:  1.13472460863
+	learning rate:  0.1
+	#iterations:  2
+	learned parameters:  [[ 0.03254287  0.11753648  0.54508504  0.47541407  0.18274039]]
+	RMSE:  1.1268996667
+[1.5459362710010278, 1.3565762881646974, 1.21565363171119, 1.2141441951408851, 1.1756817957663799, 1.0624216976978287, 1.0614366671010693, 1.134724608629453, 1.1268996666953703]

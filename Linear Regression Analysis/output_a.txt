@@ -1,0 +1,109 @@
+case 1: no regularization (regularization param = 0)
+	#iterations:  371
+	learned parameters:  [[  4.55219838e-09   4.29431183e-02   2.83732799e-02   4.50105722e-02
+    4.81126731e-01]]
+	MSE:  0.860117904218
+
+
+regularization param:  0
+	#iterations:  371
+	learned params:  [[  4.55219838e-09   4.29431183e-02   2.83732799e-02   4.50105722e-02
+    4.81126731e-01]]
+	MSE:  0.860117904218
+
+
+
+regularization param:  1
+	#iterations:  370
+	learned params:  [[  4.79178777e-09   4.29451023e-02   2.83968302e-02   4.50339317e-02
+    4.81071229e-01]]
+	MSE:  0.860119290887
+
+
+
+regularization param:  5
+	#iterations:  370
+	learned params:  [[  4.79178777e-09   4.29490093e-02   2.84671754e-02   4.51023844e-02
+    4.80889480e-01]]
+	MSE:  0.860123066551
+
+
+
+regularization param:  10
+	#iterations:  370
+	learned params:  [[  4.79178777e-09   4.29538732e-02   2.85549609e-02   4.51878018e-02
+    4.80662559e-01]]
+	MSE:  0.860127809653
+
+
+
+regularization param:  20
+	#iterations:  369
+	learned params:  [[  5.04398712e-09   4.29645391e-02   2.87359861e-02   4.53643638e-02
+    4.80199580e-01]]
+	MSE:  0.860137824883
+
+
+
+regularization param:  30
+	#iterations:  369
+	learned params:  [[  5.04398712e-09   4.29741042e-02   2.89103677e-02   4.55339871e-02
+    4.79747898e-01]]
+	MSE:  0.860147490829
+
+
+
+regularization param:  50
+	#iterations:  368
+	learned params:  [[  5.30946012e-09   4.29939676e-02   2.92630823e-02   4.58774306e-02
+    4.78838131e-01]]
+	MSE:  0.860167583914
+
+
+
+regularization param:  60
+	#iterations:  367
+	learned params:  [[  5.58890538e-09   4.30042656e-02   2.94414146e-02   4.60512499e-02
+    4.78380047e-01]]
+	MSE:  0.860178014934
+
+
+
+regularization param:  70
+	#iterations:  367
+	learned params:  [[  5.58890538e-09   4.30134674e-02   2.96131304e-02   4.62181589e-02
+    4.77933213e-01]]
+	MSE:  0.8601880816
+
+
+
+regularization param:  100
+	#iterations:  365
+	learned params:  [[  6.19269292e-09   4.30425461e-02   3.01362295e-02   4.67273290e-02
+    4.76579821e-01]]
+	MSE:  0.860219809126
+
+
+
+regularization param:  200
+	#iterations:  360
+	learned params:  [[  8.00316032e-09   4.31321260e-02   3.18281379e-02   4.83715980e-02
+    4.72161498e-01]]
+	MSE:  0.860330948566
+
+
+
+regularization param:  300
+	#iterations:  355
+	learned params:  [[  1.03429277e-08   4.32133359e-02   3.34579647e-02   4.99527236e-02
+    4.67856586e-01]]
+	MSE:  0.86045094429
+
+
+
+regularization param:  500
+	#iterations:  345
+	learned params:  [[  1.72745775e-08   4.33523994e-02   3.65425783e-02   5.29371252e-02
+    4.59567850e-01]]
+	MSE:  0.860714573798
+
